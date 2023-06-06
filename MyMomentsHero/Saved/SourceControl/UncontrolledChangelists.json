@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/cgriffin/CubeGridToolOutput_F8236278.uasset",
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/_GENERATED/cgriffin/Ladder.uasset",
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/Map/OpenUrbanArena.umap",
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/Ladder.uasset",
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/CubeGridToolOutput_F8236278.uasset",
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/Ladder.uasset",
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/TutelBuute.uasset",
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/lambert1.uasset",
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/LobsidedButt_pSphere1.uasset",
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/LobsidedButt_pSphere2.uasset",
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/Tutel.uasset"
+			]
+		}
+	]
+}
