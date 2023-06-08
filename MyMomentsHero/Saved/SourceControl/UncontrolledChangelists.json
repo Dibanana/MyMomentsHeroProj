@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/cgriffin/CubeGridToolOutput_F8236278.uasset",
 				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/_GENERATED/cgriffin/Ladder.uasset",
 				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/Map/OpenUrbanArena.umap",
 				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/Ladder.uasset",
@@ -16,7 +15,9 @@
 				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/lambert1.uasset",
 				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/LobsidedButt_pSphere1.uasset",
 				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/LobsidedButt_pSphere2.uasset",
-				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/Tutel.uasset"
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/Tutel.uasset",
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/_GENERATED/cgriffin/CubeGridToolOutput_F8236278.uasset"
 			]
 		}
 	]
