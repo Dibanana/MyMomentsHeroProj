@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/chaun/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/chaun/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/chaun/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/Ladder.uasset",
+				"C:/Users/chaun/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/Map/OpenUrbanArena.umap",
+				"C:/Users/chaun/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/Map/_GENERATED/chaun/CubeGridToolOutput_004F6EF3.uasset",
+				"C:/Users/chaun/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/Map/_GENERATED/chaun/CubeGridToolOutput_EC5948F1.uasset",
 				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/_GENERATED/cgriffin/Ladder.uasset",
 				"C:/Users/cgriffin/Documents/GitHub/MyMomentsHeroProj/MyMomentsHero/Content/Unique/Map/OpenUrbanArena.umap",
