@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+MyMomentsHero/Saved/Logs/MyMomentsHero-backup-2023.06.13-03.11.12.log
+*.log
